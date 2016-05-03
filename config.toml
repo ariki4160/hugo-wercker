@@ -1,0 +1,24 @@
+BaseUrl= "http://ariki4160.github.io/"
+languageCode = "ja-jp"
+Title= "light"
+paginate = 5
+# DisqusShortname = "YOUR_SHORT_NAME_HERE"
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
+
+[params]
+  description = "light is IT knowledge archive blog"
+  cover = "images/cover.jpg"
+  author = "ariki4160"
+  authorlocation = "Japan"
+  authorwebsite = "https://personal.vivo-one.net/"
+  bio= "my bio"
+  logo = "images/phoenix_world.png"
+  googleAnalyticsUserID = "UA-76876836-4"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feedly.com/i/subscription/feed/https://syui.github.io/atom.xml"
+  githubName = "ariki4160"
+  twitterName = "ariki4160"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
