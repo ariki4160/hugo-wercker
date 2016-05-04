@@ -13,3 +13,4 @@ deploy:
         token: $GIT_TOKEN
         domain: ariki4160.github.io
         basedir: public
+
