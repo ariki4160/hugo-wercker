@@ -1,3 +1,15 @@
+box: debian
 build:
   steps:
-    - arjen/hugo-build@1.8.4
+    - arjen/hugo-build:
+        version: "0.14"
+        theme: hugo-theme-air
+        flags: --buildDrafts=true
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: github.io
+        basedir: public
