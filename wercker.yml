@@ -11,6 +11,7 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: ariki4160.github.io
+        repo: ariki4160/ariki4160.github.io
+        # domain: ariki4160.github.io
         basedir: public
 
