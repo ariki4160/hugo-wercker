@@ -6,9 +6,9 @@ draft = false
 image = ""
 menu = ""
 share = true
-slug = "post-title"
-tags = ""
-title = "CGIの環境変数を調査するPerlスクリプト"
+slug = "env-cgi"
+tags = []
+title = "環境変数の調査CGI"
 
 +++
 
