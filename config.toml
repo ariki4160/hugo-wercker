@@ -12,7 +12,7 @@ canonifyurls = true
   author = "ariki4160"
   authorlocation = "Japan"
   authorwebsite = "https://personal.vivo-one.net/"
-  bio= "my bio"
+  bio= "Hobby Programmer and an not enthusiastic blogger. curious about any Python modules Deep learning"
   logo = "images/phoenix_world.png"
   googleAnalyticsUserID = "UA-76876836-4"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
